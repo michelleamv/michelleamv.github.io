@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Objetivos on Nombre Alumno</title>
+    <title>Petorca on Nombre Alumno</title>
     <link>https://michelleamv.github.io/docs/</link>
-    <description>Recent content in Objetivos on Nombre Alumno</description>
+    <description>Recent content in Petorca on Nombre Alumno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
     
 	<atom:link href="https://michelleamv.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Presentación Michelle</title>
+      <title>Presentación Miércoles</title>
       <link>https://michelleamv.github.io/docs/markdown-copia/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://michelleamv.github.io/docs/markdown-copia/</guid>
-      <description>Un primer acercamiento a mi carpeta de presentación. Solo publicaré algunas cosas para practicar.</description>
+      <description>Un primer acercamiento al proyecto Petorca y su crisis hídrica</description>
     </item>
     
     <item>
