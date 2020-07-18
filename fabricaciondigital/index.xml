@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Fabricación Digital on Nombre Alumno</title>
+    <title>Fabricación Michelle Moore on Nombre Alumno</title>
     <link>https://michelleamv.github.io/fabricaciondigital/</link>
-    <description>Recent content in Fabricación Digital on Nombre Alumno</description>
+    <description>Recent content in Fabricación Michelle Moore on Nombre Alumno</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
@@ -12,7 +12,7 @@
     
     
     <item>
-      <title>Instalar Tema</title>
+      <title>Tutorial Construcción</title>
       <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
@@ -40,10 +40,10 @@
     
     <item>
       <title>Ejercicio Silla</title>
-      <link>https://michelleamv.github.io/fabricaciondigital/docs/markdown/</link>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/silla/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://michelleamv.github.io/fabricaciondigital/docs/markdown/</guid>
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/silla/</guid>
       <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
     </item>
     
