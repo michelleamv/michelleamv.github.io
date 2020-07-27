@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Tutorial Construcción</title>
+      <title>Mecanizado CNC</title>
       <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
       <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/</guid>
+      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC Respaldo</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/index-copy/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/index-copy/</guid>
       <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
     </item>
     
