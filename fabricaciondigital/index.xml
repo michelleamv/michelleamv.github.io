@@ -12,21 +12,48 @@
     
     
     <item>
-      <title>Mecanizado CNC</title>
-      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/</link>
+      <title>Desbaste: Grasshopper</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-2/desbaste/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-2/desbaste/</guid>
+      <description>A través de un molde hecho en Grasshopper, lograremos hacer un desbaste en Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>Investigación</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-4/investigaci%C3%B3n/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-4/investigaci%C3%B3n/</guid>
+      <description>Investigación sobre la creación de una maseta sustentable</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/mecanizado-cnc/</guid>
+      <description>Mecanizado CNC silla</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC Mesa</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-3/mesa/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-3/mesa/</guid>
+      <description>Mecanizado CNC mesa</description>
     </item>
     
     <item>
       <title>Mecanizado CNC Respaldo</title>
-      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/index-copy/</link>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/mecanizado-cnc-respaldo/</link>
       <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
       
-      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/index-copy/</guid>
-      <description>Tutorial de intalación del tema utilizando el Framework Hugo.</description>
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/mecanizado-cnc-respaldo/</guid>
+      <description>Parte 2 del mecanizado de la silla</description>
     </item>
     
     <item>
