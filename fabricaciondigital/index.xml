@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fabricación Michelle Moore on Nombre Alumno</title>
+    <link>https://michelleamv.github.io/fabricaciondigital/</link>
+    <description>Recent content in Fabricación Michelle Moore on Nombre Alumno</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 17 Jun 2020 19:30:08 +1000</lastBuildDate>
+    
+	<atom:link href="https://michelleamv.github.io/fabricaciondigital/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desbaste: Grasshopper</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-2/desbaste/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-2/desbaste/</guid>
+      <description>A través de un molde hecho en Grasshopper, lograremos hacer un desbaste en Fusion 360</description>
+    </item>
+    
+    <item>
+      <title>Investigación y Creación (Entrega 4)</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/investigacion/investigaci%C3%B3n/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/investigacion/investigaci%C3%B3n/</guid>
+      <description>Investigación sobre la creación de una maseta sustentable</description>
+    </item>
+    
+    <item>
+      <title>Maceta (Entrega 5)</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/maceta/maceta/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/maceta/maceta/</guid>
+      <description>Investigación sobre la creación de una maseta sustentable</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/mecanizado-cnc/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema/mecanizado-cnc/</guid>
+      <description>Mecanizado CNC silla</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC Mesa</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-3/mesa/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy-3/mesa/</guid>
+      <description>Mecanizado CNC mesa</description>
+    </item>
+    
+    <item>
+      <title>Mecanizado CNC Respaldo</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/mecanizado-cnc-respaldo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/instalar-tema-copy/mecanizado-cnc-respaldo/</guid>
+      <description>Parte 2 del mecanizado de la silla</description>
+    </item>
+    
+    <item>
+      <title>Configuración</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/configuracion/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/configuracion/</guid>
+      <description>Tutorial de configuración básica del menú y otros elementos del tema.</description>
+    </item>
+    
+    <item>
+      <title>Ejemplo Shortcodes</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/ejemplo/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/ejemplo/</guid>
+      <description>Uso de los Shortcodes para agregar contenido en el sitio de documentación.</description>
+    </item>
+    
+    <item>
+      <title>Ejercicio Silla</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/silla/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/silla/</guid>
+      <description>Ejemplos de uso de lenguaje Markdown para redactar las publicaciones.</description>
+    </item>
+    
+    <item>
+      <title>Objetivos del Curso</title>
+      <link>https://michelleamv.github.io/fabricaciondigital/docs/objetivos/</link>
+      <pubDate>Wed, 17 Jun 2020 19:30:08 +1000</pubDate>
+      
+      <guid>https://michelleamv.github.io/fabricaciondigital/docs/objetivos/</guid>
+      <description>Objetivos general y específico del Taller del segundo trimestre de 2020.</description>
+    </item>
+    
+  </channel>
+</rss>
